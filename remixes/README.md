@@ -7,4 +7,4 @@ Pride Logo (6/2/25) [link](https://discord.com/channels/686968015715172423/13790
 Christmas Logo (12/2/25) [link](https://discord.com/channels/686968015715172423/1444899768806408232)
 
 <img src="playit-easter-logo-circle.png" alt="easter-playit-logo" width="200"/><br/>
-Easter Logo (3/3/26) [link](https://discord.com/channels/686968015715172423/917266736569544744/1478459539669127378))
+Easter Logo (3/3/26) [link](https://discord.com/channels/686968015715172423/917266736569544744/1478459539669127378)
