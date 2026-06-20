@@ -6,7 +6,7 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 
 ---
 
-## <i class="fa-solid fa-palette"></i> Color Palette & Example Colors
+## <i class="fa-solid fa-palette"></i> Color Palette
 
 ### <img src="svg/circle-lime.svg" width="24" height="24" align="center"> Console Lime
 **Hex:** `#00ff00`
@@ -17,11 +17,3 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 **Hex:** `#0000ff`
 * **HTML:** `<span style="color: #0000ff;">Blue Text</span>`
 * **CSS:** `color: var(--console-blue);`
-
-### Quick CSS Drop-in
-```css
-:root {
-  --console-lime: #00ff00;
-  --console-blue: #0000ff;
-  --bg-dark: #09090b;
-}
