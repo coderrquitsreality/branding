@@ -8,21 +8,15 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 
 ## <i class="fa-solid fa-palette"></i> Color Palette & Example Colors
 
-### Console Lime
+### <img src="svg/circle-lime.svg" width="24" height="24" align="center"> Console Lime
 **Hex:** `#00ff00`
 * **HTML:** `<span style="color: #00ff00;">Lime Text</span>`
 * **CSS:** `color: var(--console-lime);`
 
-**Example Color:**
-<div style="background-color: #00ff00; width: 100%; height: 40px; border-radius: 4px; margin-bottom: 20px;"></div>
-
-### Console Blue
+### <img src="svg/circle-blue.svg" width="24" height="24" align="center"> Console Blue
 **Hex:** `#0000ff`
 * **HTML:** `<span style="color: #0000ff;">Blue Text</span>`
 * **CSS:** `color: var(--console-blue);`
-
-**Example Color:**
-<div style="background-color: #0000ff; width: 100%; height: 40px; border-radius: 4px; margin-bottom: 20px;"></div>
 
 ### Quick CSS Drop-in
 ```css
