@@ -24,8 +24,14 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 ## <i class="fa-solid fa-palette"></i> Banner
 ## <i class="fa-solid fa-palette"></i> PFP
 ## <i class="fa-solid fa-palette"></i> Emoji
+
 ## <i class="fa-solid fa-palette"></i> Domain
+### <img src="svg/link-00ff00.svg" width="24" height="24" align="center"> Domain - `coderrquitsreality.dev`
 
 ## <i class="fa-solid fa-palette"></i> Internet Resources
+### <img src="svg/srv-00ff00.svg" width="24" height="24" align="center"> AS Number - `AS207719`
+### <img src="svg/srv-00ff00.svg" width="24" height="24" align="center"> IPv6 Network - `2a14:7583:6969::/48`
 
 ## <i class="fa-solid fa-palette"></i> Email
+### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> Email - `me@coderrquitsreality.dev`
+### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> Email - `dmca@coderrquitsreality.dev`
