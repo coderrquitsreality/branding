@@ -6,21 +6,26 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 
 ---
 
-## <i class="fa-solid fa-palette"></i> Social Media
+## <i class="fa-solid fa-share-nodes"></i> Social Media
+* **Twitter / X:** [@coderrquitsrlty](https://twitter.com/@coderrquitsrlty)
+* **YouTube:** [coderrquitsreality_](https://www.youtube.com/c/coderrquitsreality_)
+* **Discord:** [coderrquitsreality_](https://discord.com/users/846055297524826162)
 
 ## <i class="fa-solid fa-palette"></i> Color Palette
 
 ### <img src="svg/circle-lime.svg" width="24" height="24" align="center"> Console Lime - `#00ff00`
 ### <img src="svg/circle-blue.svg" width="24" height="24" align="center"> Console Blue - `#0000ff`
 ### <img src="svg/circle-000000.svg" width="24" height="24" align="center"> Void Black - `#000000`
-### <img src="svg/circle-252525.svg" width="24" height="24" align="center"> Dark Gray - `#252525`
-### <img src="svg/circle-505050.svg" width="24" height="24" align="center"> Light Gray - `#505050`
-### <img src="svg/circle-757575.svg" width="24" height="24" align="center"> Lighter Gray - `#505050`
+### <img src="svg/circle-252525.svg" width="24" height="24" align="center"> Dark Grey - `#252525`
+### <img src="svg/circle-505050.svg" width="24" height="24" align="center"> Light Grey - `#505050`
+### <img src="svg/circle-757575.svg" width="24" height="24" align="center"> Lighter Grey - `#757575`
 ### <img src="svg/circle-ffffff.svg" width="24" height="24" align="center"> Literally just white - `#ffffff`
 
 ## <i class="fa-solid fa-palette"></i> Banner
 ## <i class="fa-solid fa-palette"></i> PFP
 ## <i class="fa-solid fa-palette"></i> Emoji
 ## <i class="fa-solid fa-palette"></i> Domain
+
 ## <i class="fa-solid fa-palette"></i> Internet Resources
+
 ## <i class="fa-solid fa-palette"></i> Email
