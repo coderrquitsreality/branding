@@ -33,5 +33,5 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 ### <img src="svg/srv-00ff00.svg" width="24" height="24" align="center"> IPv6 Network - `2a14:7583:6969::/48`
 
 ## <i class="fa-solid fa-palette"></i> Email
-### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> Email - `me@coderrquitsreality.dev`
-### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> Email - `dmca@coderrquitsreality.dev`
+### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> `me@coderrquitsreality.dev`
+### <img src="svg/mail-00ff00.svg" width="24" height="24" align="center"> `dmca@coderrquitsreality.dev`
