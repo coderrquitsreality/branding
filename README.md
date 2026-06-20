@@ -6,6 +6,8 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 
 ---
 
+## <i class="fa-solid fa-palette"></i> Social Media
+
 ## <i class="fa-solid fa-palette"></i> Color Palette
 
 ### <img src="svg/circle-lime.svg" width="24" height="24" align="center"> Console Lime - `#00ff00`
@@ -15,3 +17,10 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 ### <img src="svg/circle-505050.svg" width="24" height="24" align="center"> Light Gray - `#505050`
 ### <img src="svg/circle-757575.svg" width="24" height="24" align="center"> Lighter Gray - `#505050`
 ### <img src="svg/circle-ffffff.svg" width="24" height="24" align="center"> Literally just white - `#ffffff`
+
+## <i class="fa-solid fa-palette"></i> Banner
+## <i class="fa-solid fa-palette"></i> PFP
+## <i class="fa-solid fa-palette"></i> Emoji
+## <i class="fa-solid fa-palette"></i> Domain
+## <i class="fa-solid fa-palette"></i> Internet Resources
+## <i class="fa-solid fa-palette"></i> Email
