@@ -14,3 +14,4 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 ### <img src="svg/circle-252525.svg" width="24" height="24" align="center"> Dark Gray - `#252525`
 ### <img src="svg/circle-505050.svg" width="24" height="24" align="center"> Light Gray - `#505050`
 ### <img src="svg/circle-757575.svg" width="24" height="24" align="center"> Lighter Gray - `#505050`
+### <img src="svg/circle-ffffff.svg" width="24" height="24" align="center"> Literally just white - `#ffffff`
