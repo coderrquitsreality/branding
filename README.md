@@ -14,7 +14,7 @@ This repository serves as the central hub for all **coderrquitsreality** brandin
 ## <i class="fa-solid fa-palette"></i> Color Palette
 
 ### <img src="svg/circle-lime.svg" width="24" height="24" align="center"> Console Lime - `#00ff00`
-### <img src="svg/circle-blue.svg" width="24" height="24" align="center"> Console Blue - `#0000ff`
+### <img src="svg/circle-blue.svg" width="24" height="24" align="center"> Console Blue - `#0000ff`trhdrthdhfgdh
 ### <img src="svg/circle-000000.svg" width="24" height="24" align="center"> Void Black - `#000000`
 ### <img src="svg/circle-252525.svg" width="24" height="24" align="center"> Dark Grey - `#252525`
 ### <img src="svg/circle-505050.svg" width="24" height="24" align="center"> Light Grey - `#505050`
